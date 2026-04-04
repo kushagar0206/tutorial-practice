@@ -14,5 +14,7 @@
 // console.log(arr)
 
 
-//12. reverse() --> ---  
+
+//12. reverse() -->
+
 
